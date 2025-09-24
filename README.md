@@ -2,7 +2,7 @@ Campus Course Records Manager
 
 Made by
 
-Name : Aparna kumari Registration Number: 24BCE11388 Course : Programming in Java Course Code: CSE2006 Institution:VIT Bhopal University Submission Platform: Vityarthi
+Name : Aparna kumari Registration Number: 24BCE11388 Course : Programming in Java Course Code: CSE2006 Institution:VIT Bhopal University Submission Platform: Vityarthi 
 
 
 
